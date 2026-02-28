@@ -15,3 +15,7 @@ sudo apt update && sudo apt install make gcc-13 g++-13 build-essential linux-hea
 ```shell
 sudo apt install ./driver-file.deb
 ```
+
+# TESTED ON
+
+ZorinOS 18
